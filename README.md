@@ -1,4 +1,4 @@
-# ☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️
+# King Hack
 <h1 align="center">
     <p>
         <img src= "https://thumbs.gfycat.com/ComplexSourKakapo-size_restricted.gif">
@@ -115,9 +115,6 @@ Agradeço a esses gostosos por ter me ajudado a adicionar novos comandos e por t
 
 ---
 
-# 🥺 Donate
-[Paypal](https://www.paypal.com/donate/?hosted_button_id=QQ4MFP2AZV9TW)
-
 Pix
 
 <img src="https://i.imgur.com/891Ah3r.jpeg" width="300" >
@@ -125,8 +122,6 @@ Pix
 ---
 # 🤝 Contato
 
-[Whatsapp](https://api.whatsapp.com/send/?phone=%2B557187645787&text&app_absent=0)
-
-[Youtube](https://www.youtube.com/channel/UCK_e0brrGXeXk-zg2NFbJTg)
+[Youtube](https://www.youtube.com/channel/UCe3Dt7KvuBCTI7_S4SDrFNg)
 
 
