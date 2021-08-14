@@ -29,13 +29,13 @@ O Brizas bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/
 ---
 # 🔄 Atualizar automaticamente
 ```
-cd Brizas-bot
+cd KingHack-bot
 sh update.sh
 ```
 ---
 # 🌐 Logando e deslogando do wpp web
 ```
-cd Brizas-bot
+cd KingHack-bot
 node reset.js
 
 (para logar de novo)
@@ -50,7 +50,7 @@ node index.js
 
 ```
 git clone https://github.com/ianmsfvenom/Brizas-bot
-cd Brizas-bot
+cd KingHack-bot
 bash install.sh
 npm install
 
@@ -68,7 +68,7 @@ pm2 start index.js
 # 🙋‍♂️ Como mudar as configurações do bot
 ```
 cd
-cd Brizas-bot
+cd KingHack-bot
 apt install nano
 nano config.js
 
