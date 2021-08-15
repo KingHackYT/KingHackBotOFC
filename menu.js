@@ -1,30 +1,22 @@
 const help = (p, date, user, wame) => {
 return `
 ╭━━━━━━━━━━━━━━━━━━━╮
-┃☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️
+┃   King Hack Bot
 ┃  
-┃ 🕐 𝐃𝐚𝐭𝐚 𝐞 𝐡𝐨𝐫𝐚: ${date}
-┃ 🙂 𝐔𝐬𝐮𝐚́𝐫𝐢𝐨: ${user}
-┃ 🌎 𝐖𝐚𝐦𝐞: 
+┃ 🕐 Datos y hora: ${date}
+┃ 🙂 Usuario: ${user}
+┃ 🌎 Wame: 
 ┃ ${wame}                                       
 ┃
-┣━━ 🤩 𝑹𝑬𝑫𝑬𝑺 𝑺𝑶𝑪𝑰𝑨𝑰𝑺 🤩 ━╮
-┃
-┃ 📷 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: @brizasbot01
+┣━━ 🤩 Redes sociales 🤩 ━╮
 ┃
 ┃ 🤖𝐆𝐢𝐭𝐡𝐮𝐛:
 ┃ 🌐https://suaurl.com/f31687
 ┃
-┃ 🪀𝐆𝐫𝐮𝐩𝐨:
-┃ 🌐https://suaurl.com/feb29e
-┃
 ┃ 📹𝐘𝐨𝐮𝐭𝐮𝐛𝐞:
 ┃ 🌐https://suaurl.com/c12fe7
 ┃
-┃ 🤑𝐁𝐫𝐢𝐳𝐚𝐬-𝐚𝐩𝐢:
-┃ 🌐https://suaurl.com/e55630
-┃
-┣━━━⚡ 𝙋𝙍𝙄𝙉𝘾𝙄𝙋𝘼𝙄𝙎 ⚡━━━╮
+┣━━━⚡ Principales ⚡━━━╮
 ┃ ${p}brizasapi
 ┃ ${p}listblockcmd
 ┃ ${p}listpalavra
@@ -45,7 +37,7 @@ return `
 ┃ ${p}blacklist
 ┃ ${p}criador
 ┃ ${p}toimg (leg, resp img)
-┣━━━━😎 𝘾𝙍𝙄𝘼𝘿𝙊𝙍 😎━━━━╮
+┣━━━━😎 Creador 😎━━━━╮
 ┃ ${p}blockcmd (cmd sem prefix)
 ┃ ${p}unblockcmd (cmd sem prefix)
 ┃ ${p}alerta (txt)
@@ -78,26 +70,26 @@ return `
 ┃ ${p}gpvotostatus
 ┃ ${p}gpvoto
 ┃ ${p}gpvotofinish
-┣━━━━━⏱️ 𝘾𝙊𝙉𝙏𝘼𝘿𝙊𝙍 ⏱️━━━━━╮
+┣━━━━━⏱️ Contador ⏱️━━━━━╮
 ┃ ${p}checkativo (dial)
 ┃ ${p}rankativo
 ┃ ${p}atividade
 ┃ ${p}filtroativo
 ┃ ${p}banativos
-┣━━━━━🔇 𝙈𝙐𝙏𝘼𝙍 🔇━━━━━╮
+┣━━━━━🔇 Mutear 🔇━━━━━╮
 ┃ ${p}mute (marcar)
 ┃ ${p}desmute (marcar)
 ┃ ${p}mutados
-┣━━━━━💫 𝙇𝙀𝙑𝙀𝙇 💫━━━━━╮
+┣━━━━━💫 Level 💫━━━━━╮
 ┃ ${p}deletelevel
 ┃ ${p}level (n/a, num)
 ┃ ${p}registerlevel
-┣━━━━━⏳ 𝙇𝙄𝙈𝙄𝙏𝙀𝙎 ⏳━━━━╮
+┣━━━━━⏳ Limites ⏳━━━━╮
 ┃ ${p}rmlimituser
 ┃ ${p}resetlimit
 ┃ ${p}limitcmd (1 or 0)
 ┃ ${p}mylimit
-┣━━━━━❌ 𝘼𝙉𝙏𝙄 ❌━━━━━╮
+┣━━━━━❌ ANTI ❌━━━━━╮
 ┃ ${p}antidoc (1 or 0)
 ┃ ${p}antiloc (1 or 0)
 ┃ ${p}antiimg (1 or 0)
@@ -111,7 +103,7 @@ return `
 ┃ ${p}antifake (1 or 0)
 ┃ ${p}dontback (1 or 0)
 ┃ ${p}antilinkhard (1 or 0)
-┣━━━━👥 𝙂𝙍𝙐𝙋𝙊𝙎 👥━━━╮
+┣━━━━👥 Grupos 👥━━━╮
 ┃ ${p}listfake
 ┃ ${p}listbr
 ┃ ${p}listddd (country code)
