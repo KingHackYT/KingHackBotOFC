@@ -4,7 +4,7 @@
         <img src= "https://thumbs.gfycat.com/ComplexSourKakapo-size_restricted.gif">
     </p>
     <p>
-        <a href="https://github.com/ianmsfvenom"><img title="Author"    src="https://img.shields.io/badge/Author-Briz4loka-purple.svg?style=for-the-badge&logo=github"></a>
+        <a href="https://github.com/KingHackYT"><img title="Author"    src="https://img.shields.io/badge/Author-Briz4loka-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
         <a href="https://github.com/ianmsfvenom/followers"><img title="Followers" src="https://img.shields.io/github/followers/ianmsfvenom?color=blue&style=flat-square"></a>
@@ -29,13 +29,13 @@ O Brizas bot é um bot com a base do [MhankBars](https://github.com/MhankBarBar/
 ---
 # 🔄 Atualizar automaticamente
 ```
-cd KingHack-bot
+cd KHBot
 sh update.sh
 ```
 ---
 # 🌐 Logando e deslogando do wpp web
 ```
-cd KingHack-bot
+cd KHBot
 node reset.js
 
 (para logar de novo)
@@ -50,7 +50,7 @@ node index.js
 
 ```
 git clone https://github.com/ianmsfvenom/Brizas-bot
-cd KingHack-bot
+cd KHBot
 bash install.sh
 npm install
 
@@ -96,22 +96,6 @@ nano config.js
 </h1>
 
 Bom, esse bot não teria sido feito sem a base do, [MhankBars](https://github.com/MhankBarBar/termux-wabot) então agradeço por tudo e por ele ter disponibilizado a base dele para mim, mesmo tendo modificado aos montes o bot, ainda sim devo todo o crédito pra ele por ter feito um bot foda.
-
----
-
-## <img src="https://media.tenor.com/images/3c73ab1a2d871e65d0435c28f72f2944/tenor.gif" width="35px"> Contribuição
-
-[KillovSky](https://github.com/KillovSky/iris)
-
-[Gabriel](wa.me/+5511946817667)
-
-[Thoth](wa.me/+55d11930758170)
-
-[Italuh](https://github.com/italuH)
-
-[Adiwajshing](https://github.com/adiwajshing)
-
-Agradeço a esses gostosos por ter me ajudado a adicionar novos comandos e por ter feito e por fazer o brizas orion o um dos maiores bot de wpp 😘
 
 ---
 
