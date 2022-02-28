@@ -10,11 +10,8 @@ return `
 ┃
 ┣━━ 🤩 Redes sociales 🤩 ━╮
 ┃
-┃ 🤖𝐆𝐢𝐭𝐡𝐮𝐛:
-┃ 🌐https://suaurl.com/f31687
-┃
 ┃ 📹𝐘𝐨𝐮𝐭𝐮𝐛𝐞:
-┃ 🌐https://suaurl.com/c12fe7
+┃ 🌐https://www.youtube.com/channel/UCe3Dt7KvuBCTI7_S4SDrFNg
 ┃
 ┣━━━⚡ Principales ⚡━━━╮
 ┃ ${p}brizasapi
@@ -35,7 +32,7 @@ return `
 ┃ ${p}terbot
 ┃ ${p}blocklist
 ┃ ${p}blacklist
-┃ ${p}criador
+┃ ${p}creador
 ┃ ${p}toimg (leg, resp img)
 ┣━━━━😎 Creador 😎━━━━╮
 ┃ ${p}blockcmd (cmd sem prefix)
